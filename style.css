@@ -7,14 +7,14 @@ body, h1, h2, p, ul, li {
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background-color: #f4f4f4;
-  color: #333;
+  background-color: #e21414;
+  color: #18d418;
 }
 
 /* Header */
 header {
-  background: #333;
-  color: #fff;
+  background: #186305;
+  color: #0e8da3;
   padding: 1rem 0;
   text-align: center;
 }
